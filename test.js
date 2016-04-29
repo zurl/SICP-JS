@@ -1,4 +1,4 @@
-//js little unit test framework
+//js little unit test -framework
 var _ = {};
 exports._ = _;
 
